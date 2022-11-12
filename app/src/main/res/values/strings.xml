@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="button">Button</string>
+</resources>
